@@ -1,0 +1,31 @@
+	Customer Billing System
+
+===================================================	
+Name:Nellisa Aina
+Phone Number:019-5677670
+Email:a_nellisa@yahoo.com
+Address:i-9-1, primer garden
+Location select: Midvalley Megamall
+===================================================	
+MAC-Lipstick				1
+MAC-Eyeshadow				0
+MAC-Mascara					0
+MAC-Blusher					0
+Maybelline-Lipstick			0
+Maybelline-Eyeshadow		2
+Maybelline-Mascara			0
+Maybelline-Blusher			0
+Fenty Beauty-Lipstick		0
+Fenty Beauty-Eyeshadow		4
+Fenty Beauty-Mascara		0
+Fenty Beauty-Blusher		0
+Revlon-Lipstick				0
+Revlon-Eyeshadow			0
+Revlon-Mascara				1
+Revlon-Blusher				0
+===================================================	
+Total =		RM 365
+===================================================	
+Thank You for Shopping with us.
+
+
